@@ -1,6 +1,16 @@
 title: "Yuka et son score"
-theme: just-the-docs
-docs_dir: docs
+remote_theme: just-the-docs
+
+collections: 
+  docs : 
+    permalink: "/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    docs:
+      name: Rapport
+      nav_fold: true
 
 nav : 
 Home: index.md
