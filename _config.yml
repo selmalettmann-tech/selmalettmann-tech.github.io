@@ -1,7 +1,21 @@
-title: "Yuka Score Report"
-description: "A report on the effects of Yuka scores"
-
+title: "Yuka et son score"
 theme: just-the-docs
+docs_dir: docs
 
+nav : 
+Home: index.md
+  - Histoire de Yuka:
+      - Contexte: 01-histoire-contexte.md
+      - Fondation: 02-histoire-fondation.md
+      - Historique: 03-histoire-historique.md
+      - Évolution: 04-histoire-evolution.md
+  - D'où viennent les données Yuka?:
+      - Provenance: 05-donnees-provenance.md
+      - Indicateurs: 06-donnees-indicateurs.md
+      - Limites: 07-donnees-limites.md
+  - Impact des scores:
+      - Impact: 08-impact-scores.md
+      - Légitimité: 09-impact-legitimite.md
+      - Entretiens: 10-impact-entretiens.md
 url: "https://USERNAME.github.io"
 baseurl: "/yuka-report" # repo name
