@@ -1,4 +1,7 @@
-title : Source des données
+---
+title: D'où viennent les données Yuka?
+nav_order: 2
+---
 Les applications de suivi alimentaire comme Yuka incarnent une nouvelle forme d’interface entre le consommateur et l’information nutritionnelle. Elles transforment des données brutes en scores synthétiques, influençant la perception de la santé et de la « bonne alimentation ». La question centrale est celle de la provenance des données et de la construction des indicateurs : d’où viennent ces informations et selon quelles méthodes sont-elles traduites en scores numériques ? L’enjeu est double : scientifique, car il s’agit de garantir la validité des indicateurs, et sociopolitique, car ces scores participent à la définition normative de la santé alimentaire. Il convient d’examiner d’abord la constitution et la provenance des données, puis la construction et la pondération des indicateurs, pour enfin questionner les choix normatifs et méthodologiques qui en découlent
 
 PROVENANCE HYBRIDE DES DONNÉES
