@@ -1,5 +1,8 @@
-title : Histoire de Yuka
-I. Contexte d’émergence : défiance alimentaire et digitalisation de la santé
+---
+title: Histoire de Yuka
+nav_order: 1
+---
+I. Contexte d'émergence : défiance alimentaire et digitalisation de la santé
 L’application Yuka apparaît en 2017 dans un climat marqué par une crise de confiance envers l’industrie agroalimentaire. Les années 2010 ont été ponctuées de scandales sanitaires (lasagnes à la viande de cheval en 2013, œufs contaminés au fipronil en 2017), révélant les failles des systèmes de traçabilité et des contrôles réglementaires. Ces événements ont nourri une demande sociale pour plus de transparence et une consommation éclairée (de Longvilliers, 2025).
 Parallèlement, la digitalisation du bien-être connaît un essor considérable. Les smartphones deviennent des outils de suivi de santé, avec des applications de fitness, de méditation et de nutrition. En France, cette tendance s’inscrit dans un mouvement plus large de consommation responsable : selon le baromètre de l’Agence de l'environnement et de la maîtrise de l'énergie (ADEME), 76 % des Français déclarent vouloir changer leurs habitudes pour préserver leur santé et l’environnement, et 78 % disent agir en faveur d’une consommation durable (2023). Cette convergence entre préoccupations sanitaires et transition écologique crée un terreau favorable à des dispositifs comme Yuka.
 Enfin, du côté politique ce besoin des citoyens a aussi été compris. La mise en place du Nutri-Score en 2017, indicateur nutritionnel officiel géré par le ministère de la Santé, illustre la volonté publique de simplifier l’information nutritionnelle. Mais ce label reste perçu comme institutionnel et parfois opaque, ce qui ouvre la voie à des solutions perçues comme indépendantes et citoyennes, telles que Yuka (Richet et al., 2025). 
