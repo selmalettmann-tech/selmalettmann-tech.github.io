@@ -1,0 +1,7 @@
+title: "Yuka Score Report"
+description: "A report on the effects of Yuka scores"
+
+theme: just-the-docs
+
+url: "https://USERNAME.github.io"
+baseurl: "/yuka-report" # repo name
