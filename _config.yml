@@ -1,8 +1,12 @@
-title: "Yuka et son score"
-remote_theme: just-the-docs
+title: Rapport sur Yuka
 
-collections: 
-  docs : 
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+collections:
+  docs:
     permalink: "/:path/"
     output: true
 
@@ -12,20 +16,3 @@ just_the_docs:
       name: Rapport
       nav_fold: true
 
-nav : 
-Home: index.md
-  - Histoire de Yuka:
-      - Contexte: 01-histoire-contexte.md
-      - Fondation: 02-histoire-fondation.md
-      - Historique: 03-histoire-historique.md
-      - Évolution: 04-histoire-evolution.md
-  - D'où viennent les données Yuka?:
-      - Provenance: 05-donnees-provenance.md
-      - Indicateurs: 06-donnees-indicateurs.md
-      - Limites: 07-donnees-limites.md
-  - Impact des scores:
-      - Impact: 08-impact-scores.md
-      - Légitimité: 09-impact-legitimite.md
-      - Entretiens: 10-impact-entretiens.md
-url: "https://USERNAME.github.io"
-baseurl: "/yuka-report" # repo name
