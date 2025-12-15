@@ -1,6 +1,6 @@
 ---
 title: Histoire de Yuka
-nav_order: 1
+nav_order: 2
 ---
 I. Contexte d'émergence : défiance alimentaire et digitalisation de la santé
 L’application Yuka apparaît en 2017 dans un climat marqué par une crise de confiance envers l’industrie agroalimentaire. Les années 2010 ont été ponctuées de scandales sanitaires (lasagnes à la viande de cheval en 2013, œufs contaminés au fipronil en 2017), révélant les failles des systèmes de traçabilité et des contrôles réglementaires. Ces événements ont nourri une demande sociale pour plus de transparence et une consommation éclairée (de Longvilliers, 2025).
