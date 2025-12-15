@@ -3,10 +3,14 @@ title : Entretiens
 nav order: 4
 ---
 
-  Entretien n°1 
+## Entretien n°1 
+
 Date : 21 novembre 2025
+
 Durée : 17 minutes 
+
 Mode : Visioconférence 
+
 Profil : Homme, 22 ans, Étudiant en Master au Québec 
 
 Interviewer : Pouvez-vous vous présenter (âge, genre, situation étudiante/travaille/ …) ?
@@ -42,7 +46,8 @@ Rien à améliorer, si ce n'est inclure plus de produits/élargir la liste de pr
 
 
 
-Entretien n°2 
+## Entretien n°2 
+
 Date : 23 novembre 2025
 Durée : 25 minutes
 Mode : En présentiel 
