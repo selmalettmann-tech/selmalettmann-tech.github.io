@@ -2,9 +2,9 @@
 title: L'impact des scores Yuka
 nav_order: 3
 ---
-  La notation Yuka : un dispositif de quantification qui construit sa propre réalité 
+## I. La notation Yuka : un dispositif de quantification qui construit sa propre réalité 
 
-Un score qui semble “décrire” les produits mais qui repose sur des conventions 
+### A. Un score qui semble “décrire” les produits mais qui repose sur des conventions 
 
 Derrière l'apparente simplicité du score de Yuka se trouve un ensemble de choix méthodologiques qui ne décrivent pas la réalité nutritionnelle : ils la définissent. Dans la perspective de Desrosières (1993), quantifier revient toujours à convenir avant de mesurer. Yuka détermine donc, de manière conventionnelle : 
 ce qui doit être pris en compte (valeurs nutritionnelles, additifs, présence d’un label bio); 
@@ -12,14 +12,14 @@ comment hiérarchiser ces dimensions (la pondération 60/30/10);
 où placer les seuils qui séparent “bon”, “médiocre” ou mauvais.
 Ces paramètres ne sont pas des données naturelles mais des choix normatifs incorporés dans un score. Une autre sélection d’indicateurs, une autre pondération ou d’autres seuils produisent nécessairement une autre réalité chiffrée. Ce ne sont donc pas les produits eux-mêmes qui portent en eux une note “objective”, mais la grille de Yuka qui fabrique cette échelle de qualité.
 
-Des catégories qui font exister le “bon” et le “mauvais”
+### B. Des catégories qui font exister le “bon” et le “mauvais”
 
 Une fois les conventions intégrées dans le score, elles se transforment en catégories qui s’imposent comme des évidences. Les dispositifs ne se contentent plus de classer les produits : il fait exister les distinctions qui n’étaient pas formulées de cette manière auparavant. Un yaourt n’était pas “56/100” ni “médiocre” avant que ces étiquettes ne soient définies et diffusées par l’application. 
 
 Cette dynamique apparaît clairement dans nos entretiens. Pour l’étudiant interrogé lors du deuxième entretien, un additif rouge devient automatiquement “nocif”, et un seul ingrédient peut “faire chuter tout le produit”. Il assimile les catégories Yuka comme si elles décrivaient la réalité, alors qu’elles résultent en réalité de choix arbitraires de critères et de pondérations.
 Le classement produit donc des repères cognitifs qui orientent les jugements : la couleur, la note et le qualificatif fonctionnent ensemble comme un système de perception. Comme le souligne Desrosières (1993), les conventions chiffrées se transforment en normes sociales, au point d’être intégrées dans les pratiques quotidiennes de consommation. 
 
-La neutralité apparente du score
+### C. La neutralité apparente du score
 
 Si ces catégories s’imposent si facilement, c’est aussi parce que la forme chiffrée leur confère une apparente neutralité. Le score sur 100, associé à un code couleur simple, fonctionne comme une évidence visuelle qui dissimule son origine conventionnelle. Le chiffre apparaît comme une mesure pure, alors qu’il repose sur des choix normatifs et des arbitrages méthodologiques. 
 
@@ -27,9 +27,9 @@ Cette illusion de neutralité est perceptible dans l'entretien : l’étudiant i
 
 La force du dispositif réside précisément dans cette capacité à naturaliser un jugement. Présenté sous forme numérique, ce jugement semble découler d’une vérité simple, alors qu’il est l’expression d’un choix collectif stabilisé par la technologie. Yuka apparaît ainsi comme un acteur de normalisation, capable de transformer un calcul en repère social légitime. 
 
-II. Une légitimité alternative : pourquoi une quantification privée devient crédible et mobilisatrice 
+## II. Une légitimité alternative : pourquoi une quantification privée devient crédible et mobilisatrice 
 
-La confiance dans une alternative citoyenne et la crédibiliét du chiffre 
+### A. La confiance dans une alternative citoyenne et la crédibiliét du chiffre 
 
 Le premier ressort de cette légitimité tient à la manière dont Yuka se situe symboliquement dans la paysage alimentaire. L’application apparaît comme un acteur “extérieur”, un petit dispositif citoyen opposé aux grandes entreprises agroalimentaires et aux autorités publiques. Cette position périphérique lui confère une présomption d’indépendance. Comme l’ont montré Callon, Lascoumes et Barthe (2001), l’expertise est d’autant plus acceptée qu’elle semble affranchie des intérêts économiques et institutionnels.
 
@@ -39,7 +39,7 @@ Enfin, Yuka construit une rhétorique de transparence : elle affirme “montrer 
 
 L’application bénéficie ainsi d’une crédibilité paradoxale : moins transparente scientifiquement que le Nutri-Score, mais perçue comme plus sincère, car extérieure aux institutions et portée par l’autorité sociale du chiffre. 
 
-Appropriation des catégories, changements de pratiques et effets émotionnels
+### B. Appropriation des catégories, changements de pratiques et effets émotionnels
 
 La confiance accordée au dispositif se traduit par une appropriation concrète des catégories construites par Yuka. Selon Desrosières (1993), les conventions chiffrées ne se contentent pas de décrire le réel : elles contribuent à le fabriquer en définissant ce qui est “bon” ou “mauvais”. Le deuxième entretien réalisé illustre ce processus : l’étudiant explique qu’il évite certains additifs ou produits sucrés identifiés comme problématiques, même lorsqu’il n’utilise plus l’application. Les catégories Yuka deviennent ainsi des repères cognitifs intégrés, guidant les choix alimentaires et cosmétiques au quotidien. 
 
