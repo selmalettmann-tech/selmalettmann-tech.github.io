@@ -1,5 +1,5 @@
 ---
-title: L'impact des scores Yuka
+title: Les sources des données Yuka
 nav_order: 5
 ---
 
